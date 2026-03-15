@@ -13,6 +13,7 @@ Objectives
 * Demonstrate renewable energy harvesting
 
 ---
+
 Working Principle
 
 1. Foot pressure applied on piezo sensors
@@ -38,6 +39,19 @@ Components Used
 * Voltmeter & Ammeter
 
 ---
+
+Hardware Setup
+
+Power off
+
+![Project Setup](Hardware_setup_poweroff.jpeg)
+
+Power on
+
+![Project Setup](Hardware_setup_poweronn.jpeg)
+
+---
+
 Features:
 
 * Renewable energy harvesting
@@ -45,10 +59,8 @@ Features:
 * RFID-based access control
 * Real-time voltage monitoring
 * Portable charging capability
-  !## Hardware Setup
 
-![Project Setup](Hardware_setup_poweroff.jpeg)
-
+---
 
 Applications
 
