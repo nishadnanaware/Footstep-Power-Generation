@@ -45,7 +45,7 @@ Features:
 * RFID-based access control
 * Real-time voltage monitoring
 * Portable charging capability
-
+  ![Project Setup](fs_power_on.jpg)
 ---
 
 Applications
