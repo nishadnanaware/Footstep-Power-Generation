@@ -44,11 +44,11 @@ Hardware Setup
 
 Power off
 
-![Project Setup](Hardware_setup_poweroff.jpeg)
+![Project Setup](Hardware_circuit_poweroff.jpeg)
 
 Power on
 
-![Project Setup](Hardware_setup_poweron.jpeg)
+![Project Setup](Hardware_circuit_poweron.jpeg)
 
 ---
 
