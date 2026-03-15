@@ -47,7 +47,7 @@ Features:
 * Portable charging capability
   !## Hardware Setup
 
-![Project Setup](Hardware_setupoff.jpeg)
+![Project Setup](Hardware_setup_poweroff.jpeg)
 
 
 Applications
