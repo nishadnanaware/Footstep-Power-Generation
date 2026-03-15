@@ -40,11 +40,11 @@ Components Used
 ---
 Features:
 
-✔ Renewable energy harvesting
-✔ Energy storage system
-✔ RFID-based access control
-✔ Real-time voltage monitoring
-✔ Portable charging capability
+* Renewable energy harvesting
+* Energy storage system
+* RFID-based access control
+* Real-time voltage monitoring
+* Portable charging capability
 
 ---
 
