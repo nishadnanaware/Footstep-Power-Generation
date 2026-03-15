@@ -67,14 +67,3 @@ Future Scope
 ---
 
 
-## 🔗 STEP 8 — Add GitHub Link in Resume
-
-**Footstep Power Generation using Piezoelectric Sensors**
-• Designed renewable energy harvesting system with storage and RFID-based access
-• Built hardware prototype with Arduino, sensors, and power electronics
-• Demonstrated mobile charging capability
-🔗 GitHub: [https://github.com/yourusername/Footstep-Power-Generation](https://github.com/yourusername/Footstep-Power-Generation)
-
----
-
-
