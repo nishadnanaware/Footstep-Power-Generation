@@ -48,7 +48,7 @@ Power off
 
 Power on
 
-![Project Setup](Hardware_setup_poweronn.jpeg)
+![Project Setup](Hardware_setup_poweron.jpeg)
 
 ---
 
